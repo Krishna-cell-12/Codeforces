@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (2)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
@@ -37,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### number theory
