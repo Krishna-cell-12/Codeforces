@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 8 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
-- [math](#math) (3)
+- [implementation](#implementation) (2)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -48,12 +48,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
