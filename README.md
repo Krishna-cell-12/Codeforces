@@ -6,18 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### constructive algorithms
 
@@ -45,6 +53,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ---
 
