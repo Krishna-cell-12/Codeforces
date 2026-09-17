@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 8 |
 
 ---
 
@@ -15,9 +15,10 @@
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
 ---
@@ -42,6 +43,12 @@
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/C%20-%20101/solution.java) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | 1200 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.java) |
 
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
@@ -60,6 +67,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
