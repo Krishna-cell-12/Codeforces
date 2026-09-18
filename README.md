@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 9 |
+| 12 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (3)
-- [math](#math) (5)
-- [number theory](#number-theory) (2)
+- [math](#math) (6)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
 - [two pointers](#two-pointers) (1)
@@ -29,11 +29,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.java) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.java) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/C%20-%20101/solution.java) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | 1200 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.java) |
 
@@ -62,6 +64,7 @@
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.java) |
 
 ### number theory
 
@@ -69,6 +72,7 @@
 |---|---------|------------|----------|
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.java) |
 
 ### sortings
 
