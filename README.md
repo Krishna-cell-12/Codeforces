@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 9 |
+| 13 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (2)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (3)
 - [math](#math) (6)
@@ -36,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.java) |
+| 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2250/B%20-%20String%20Construction/solution.java) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/C%20-%20101/solution.java) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | 1200 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.java) |
 
