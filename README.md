@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 9 |
+| 14 | 9 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (4)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (3)
 - [math](#math) (6)
 - [number theory](#number-theory) (3)
@@ -44,6 +44,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/C%20-%20101/solution.java) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | 1200 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.java) |
