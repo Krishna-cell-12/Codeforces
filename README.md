@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 9 |
+| 15 | 9 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (6)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
@@ -56,6 +56,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [Java 21](https://github.com/Krishna-cell-12/Codeforces-Solutions/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.java) |
 
 ### math
 
